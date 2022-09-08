@@ -1,4 +1,4 @@
-print ("RAIVIS NOMIRA")
+print ("LOG IN")
 class Viesis:
   def __init__(self,vards,parole):
 
